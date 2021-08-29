@@ -1,0 +1,14 @@
+test_login:
+  # 登录测试参数
+  test_login_001:
+    accounts: "lee11"
+    pwd: "111111"
+    exp: "密码错误"
+  test_login_002:
+    accounts: ""
+    pwd: "123123"
+    exp: "登录账号有误"
+  test_login_003:
+    accounts: "lee11d"
+    pwd: "123123"
+    exp: "帐号不存在"

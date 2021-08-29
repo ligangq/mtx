@@ -1,0 +1,3 @@
+2021-08-21 16:19:06,923 INFO [root] [payOrderApi.py(pay_order:19)] - <Response [302]>
+2021-08-21 16:24:46,291 INFO [root] [payOrderApi.py(pay_order:17)] - <Response [302]>
+2021-08-21 16:25:34,458 INFO [root] [payOrderApi.py(pay_order:17)] - <Response [302]>
