@@ -9,7 +9,7 @@
 '''
 # 导包 把日志模块和处理器都一并导入进来
 import logging.handlers
-from Testfan.apiFrame import config
+import config
 class GetLogger:
     logger = None
     @classmethod

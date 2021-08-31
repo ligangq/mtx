@@ -1,5 +1,4 @@
-# author:lee:2021/8/20 0020 19:12
-from Testfan.apiFrame import config
+import config
 
 
 class Order:

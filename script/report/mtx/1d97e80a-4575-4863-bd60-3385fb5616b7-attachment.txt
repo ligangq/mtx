@@ -1,1 +1,0 @@
-INFO     root:payOrderApi.py:19 <Response [302]>

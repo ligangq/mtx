@@ -1,6 +1,6 @@
 # author:lee:2021/8/21 0021 14:47
-from Testfan.apiFrame import config
-from Testfan.apiFrame.tools import logger
+import config
+from tools import logger
 
 log = logger.GetLogger().get_logger()
 class PayOrder():

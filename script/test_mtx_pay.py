@@ -1,9 +1,9 @@
 # author:lee:2021/8/21 0021 15:22
 import requests
 
-from Testfan.apiFrame.api.loginApi import MtxLogin
-from Testfan.apiFrame.api.orderApi import Order
-from Testfan.apiFrame.api.payOrderApi import PayOrder
+from api.loginApi import MtxLogin
+from api.orderApi import Order
+from api.payOrderApi import PayOrder
 
 
 class TestPay:

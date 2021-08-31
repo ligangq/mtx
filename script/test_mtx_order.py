@@ -1,8 +1,8 @@
 # author:lee:2021/8/20 0020 19:19
 import requests
 
-from Testfan.apiFrame.api.orderApi import Order
-from Testfan.apiFrame.api.loginApi import MtxLogin
+from api.orderApi import Order
+from api.loginApi import MtxLogin
 
 class TestOrder:
     def setup_class(self):

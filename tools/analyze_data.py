@@ -3,7 +3,7 @@ import os
 
 import yaml
 
-from Testfan.apiFrame.config import ABS_PATH
+from config import ABS_PATH
 
 
 def analyze_data(filename,key):

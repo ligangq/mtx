@@ -1,7 +1,7 @@
 # author:lee:2021/8/17 0017 14:18
 
 
-from Testfan.apiFrame.config import IP,HEADERS
+from config import IP,HEADERS
 
 
 class MtxLogin():
